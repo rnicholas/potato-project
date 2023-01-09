@@ -26,7 +26,7 @@ Lewiston, ME --- 17% acceptance rate
 [US News](https://premium.usnews.com/best-colleges/bates-college-2036){:target="_blank"}
 
 
-## [Bucknell University](https://bucknell.edu){:target="_blank"}
+## [Bucknell University](https://bucknell.edu){:target="_blank"} 
 
 Lewisburg, PA --- 35% acceptance rate
 
