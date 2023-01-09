@@ -1,0 +1,9 @@
+#!/bin/bash
+# Last modified 8 January 2023 by Robert Nicholas <ren10@psu.edu>.
+
+REMOTE_DIR="/sdf/arpa/tz/t/tamarack/html/potato-project/"
+REMOTE_USER="tamarack"
+REMOTE_HOST="freeshell.org"
+LOCAL_DIR="_site/"
+
+rsync -avz --delete --chmod=ugo+rX,ug+w ${LOCAL_DIR} ${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_DIR}

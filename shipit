@@ -1,0 +1,4 @@
+#!/bin/bash
+# Last modified 8 January 2023 by Robert Nicholas <ren10@psu.edu>.
+
+scp -r _site/* tamarack@freeshell.org:/sdf/arpa/tz/t/tamarack/html/potato-project/

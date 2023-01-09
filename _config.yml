@@ -1,5 +1,7 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: "The Potato Project"
+description: "Arlo's College Search Dashboard"
+show_downloads: false
 theme: jekyll-theme-slate
+
+exclude: ["LICENSE", "README.md", "shipit", "shipit-rsync", "docs/", "script/", "jekyll-theme-slate.gemspec", "*~"]
+
